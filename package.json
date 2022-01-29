@@ -38,8 +38,8 @@
   },
   "homepage": "https://github.com/hms-dbmi/viv#readme",
   "peerDependencies": {
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.12.0 || 17",
+    "react-dom": "^16.12.0 || 17",
     "@deck.gl/core": "~8.6.7",
     "@deck.gl/geo-layers": "~8.6.7",
     "@deck.gl/layers": "~8.6.7",
